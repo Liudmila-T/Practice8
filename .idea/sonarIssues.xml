@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="D:/EPAM/ConnToDB/src/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EPAM/SummaryTask4/src/main/java/com/epam/malykhin/database/JdbcConnectionHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EPAM/SummaryTask4/src/main/webapp/META-INF/context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalProject/.idea/artifacts/FinalProject_war_exploded.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/.idea/artifacts/FinalPrpject_war_exploded.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/dao/OrderDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/dao/ProductDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/dao/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/util/Fields.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/util/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/web/command/Command.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/web/command/CommandContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/web/command/ListOrdersCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/web/command/LoginCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/web/command/ProductsCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/web/command/UpdateSettingsCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/src/ua/nure/timoshenko/summaryTask4/web/listener/ContextListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/webContent/META-INF/context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/FinalPrpject/webContent/WEB-INF/jsp/admin/list_orders.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ua/nure/timoshenko/practice8/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../FinalProject-IDEA-MySQL/FinalProject-IDEA-MySQL/readme.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../FinalProject-IDEA-MySQL/FinalProject-IDEA-MySQL/sql/dbcreate-mysql — копия.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../FinalProject-IDEA-MySQL/FinalProject-IDEA-MySQL/sql/dbcreate-mysql.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../FinalProject-IDEA-MySQL/FinalProject-IDEA-MySQL/src/ua/nure/your_last_name/SummaryTask4/db/DBManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../FinalProject-IDEA-MySQL/FinalProject-IDEA-MySQL/src/ua/nure/your_last_name/SummaryTask4/web/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../FinalProject-IDEA-MySQL/FinalProject-IDEA-MySQL/src/ua/nure/your_last_name/SummaryTask4/web/command/LoginCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../FinalProject-IDEA-MySQL/FinalProject-IDEA-MySQL/web/META-INF/context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
